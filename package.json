@@ -1,0 +1,10 @@
+{
+    "name": "authra.me",
+    "version": "0.1.0",
+    "homepage": "https://authra.me",
+    "main": "index.js",
+    "packageManager": "npm",
+    "dependencies": {
+        "express": "4.18.1"
+    }
+}
