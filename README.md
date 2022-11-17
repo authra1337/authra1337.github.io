@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **maybe python syntax is bad.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me (for any questions):</h3>
 <p align="left">
 <a href="https://instagram.com/authr.a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="authr.a" height="30" width="40" /></a>
 </p>
