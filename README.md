@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **authra1337@proton.me**
 
-- ⚡ Fun fact **maybe python syntax is bad.**
+- ⚡ Fun fact **python syntax is bad.**
 
 <h3 align="left">Connect with me (for any questions):</h3>
 <p align="left">
